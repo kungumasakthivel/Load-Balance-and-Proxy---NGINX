@@ -1,4 +1,5 @@
 # Starter fr NGINX & Docker via Node.JS
+<<<<<<< HEAD
 
 #### How to install NGINX
 
@@ -13,3 +14,9 @@
   * Go to task manager and manually stop the **nginx** **instance** by
     * RIght click and
     * End task option
+=======
+NGINX gives three important features to applications:
+- Reverse Proxy
+- Load Balanceing
+- Security
+>>>>>>> 2302967b01fb40db975866735d04e6b9ed0edd89
